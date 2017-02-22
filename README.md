@@ -10,6 +10,10 @@
 
 ### Explain event bubbling.
 
+## CSS 
+
+### Explain pseudo elements
+
 ## JavaScript  
 
 ### Explain Lifetime of JavaScript variables.
@@ -33,6 +37,12 @@ if( “” ) alert(true);
 ```
 ### Different between Call and Apply and Bind ?
 
+## OS
+
+### Explain deadlock.
+
+### Explain Race Condition and how to avoid it?
+
 ## Algorithm
 
 ### Given an array and a value, remove all elements of that > value in place* and return the new length. The order of elements can be changed. It doesn't matter what you leave beyond the new length. And the all elements of the array in new length should <= value. *(in place: You can’t create new array to store result, just use original array)
@@ -40,3 +50,5 @@ if( “” ) alert(true);
 ### Given two binary strings, return their sum (also a binary string). For example, a = "11" b = "1" Return "100". You can assume "0" < a, b, a+b < “11111111111111111111” (2^20-1)
 
 ### Multiple by 8 without using multiplication or addition
+
+

@@ -54,4 +54,4 @@ if( “” ) alert(true);
 
 ### Multiple by 8 without using multiplication or addition
 
-
+### Suppose you have an array of 1000 integers. The integers are in random order, but you know each of the integers is between 1 and 5000 (inclusive). In addition, each number appears only once in the array. Assume that you can access each element of the array only once. Describe an algorithm to sort it. If you used auxiliary storage in your algorithm, can you find an algorithm that remains O(n) space complexity?

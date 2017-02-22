@@ -1,5 +1,8 @@
 # interview
 
+### Computer Organization and Architecture
+### How to compare two floats?
+
 ## Web 
 ### Different between session, cookie and localstorage? 
 
@@ -29,8 +32,8 @@ assert(add_two(8) == 10);  
 
 ### Equal or not? 
 ```
-console.log( 0 == false )true
-console.log( 0 === false )false
+console.log( 0 == false )
+console.log( 0 === false )
 if( {} ) alert(true); 						
 if( [] ) alert(true); 
 if( “” ) alert(true);

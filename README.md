@@ -38,7 +38,7 @@ if( {} ) alert(true);
 if( [] ) alert(true); 
 if( “” ) alert(true);
 ```
-### Different between Call and Apply and Bind ?
+### Different between Call, Apply and Bind ?
 
 ## OS
 

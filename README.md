@@ -2,6 +2,7 @@
 
 ### Computer Organization and Architecture
 ### How to compare two floats?
+### Compare Global, Stack and Heap.
 
 ## Web 
 ### Different between session, cookie and localstorage? 
@@ -42,13 +43,22 @@ if( “” ) alert(true);
 ```
 ### Different between Call, Apply and Bind ?
 
+## Java 
+### Different between Overloading and Overriding.
+
+### Does Java support multiple inheritance? If not, can we simulate it?
+
+## SQL
+
+### Explain join.
+
 ## OS
 
 ### Explain deadlock.
 
 ### Explain Race Condition and how to avoid it?
 
-## Algorithm
+## Data Structure & Algorithm
 
 ### Given an array and a value, remove all elements of that > value in place* and return the new length. The order of elements can be changed. It doesn't matter what you leave beyond the new length. And the all elements of the array in new length should <= value. *(in place: You can’t create new array to store result, just use original array)
 

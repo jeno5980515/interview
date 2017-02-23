@@ -19,6 +19,8 @@
 
 ## JavaScript  
 
+### Explain "this".
+
 ### Explain Lifetime of JavaScript variables.
 
 ### Implement the adder function to pass all assert 

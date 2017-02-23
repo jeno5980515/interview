@@ -5,7 +5,7 @@
 
 ### Compare Global, Stack and Heap.
 
-### Compare pass by value, reference and by address.
+### Compare pass by value, reference and address.
 
 ## Web 
 ### Different between session, cookie and localstorage? 

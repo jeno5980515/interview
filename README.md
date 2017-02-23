@@ -2,7 +2,10 @@
 
 ## Computer Organization and Architecture
 ### How to compare two floats?
+
 ### Compare Global, Stack and Heap.
+
+### Compare pass by value, reference and by address.
 
 ## Web 
 ### Different between session, cookie and localstorage? 
@@ -53,6 +56,8 @@ if( “” ) alert(true);
 ### Explain join.
 
 ## OS
+
+### Different between Process and Thread.
 
 ### Explain deadlock.
 

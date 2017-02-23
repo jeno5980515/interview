@@ -1,7 +1,7 @@
 # interview
 
 ## Computer Organization and Architecture
-    How to compare two floats?
+*   How to compare two floats?
 
 ### Compare Global, Stack and Heap.
 

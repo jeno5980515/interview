@@ -15,6 +15,7 @@
 
 ## CSS 
 * Explain pseudo elements   
+* Difference between @import and link?
 
 ## JavaScript     
 * What is the difference between undefined and not defined in JavaScript? 

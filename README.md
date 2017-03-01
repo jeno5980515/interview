@@ -7,7 +7,9 @@
 
 ## Web 
 * Different between session, cookie and localstorage? 
-* Compare WebSocket, Polling, Long-Polling and Streaming.  
+* Compare WebSocket, Polling, Long-Polling and Streaming. 
+* Explain REST.
+* Different between GET and POST.
 
 ## Front-end 
 * How to improve the perfornamce? 

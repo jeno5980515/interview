@@ -16,6 +16,7 @@
 * Explain event bubbling.  
 
 ## CSS 
+* How to center an element? 
 * Explain pseudo elements   
 * Difference between @import and link?
 

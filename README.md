@@ -15,13 +15,19 @@
 * How to improve the perfornamce? 
 * Explain event bubbling.  
 
+## HTML
+* Talk about HTML5.
+
 ## CSS 
 * How to center an element? 
 * Explain pseudo elements   
 * Difference between @import and link?
+* Talk about CSS3.
 
 ## JavaScript     
 * What is the difference between undefined and not defined in JavaScript? 
+* Explain "use strict".
+* Talk about ES6.
 * Explain "this".
 * Different between Call, Apply and Bind ?  
 * Explain Lifetime of JavaScript variables.

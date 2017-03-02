@@ -12,6 +12,8 @@
 * Different between GET and POST.
 
 ## Front-end 
+* How to (not) hide a mobile browser's address bar?
+* How to solve Browser Compatibility issues?
 * How to improve the perfornamce? 
 * Explain event bubbling.  
 

@@ -2,7 +2,7 @@
 
 ## Computer Organization and Architecture
 * Compare pass by value, reference and address.  
-* Compare `Global`, `Stack` and `Heap`.
+* Compare Global, Stack and Heap.
 * How to compare two floats?
 
 ## Web 

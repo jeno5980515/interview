@@ -32,6 +32,7 @@
 * Talk about ES6.
 * Explain "this".
 * Different between Call, Apply and Bind ?  
+* Different between var and let?
 * Explain Lifetime of JavaScript variables.
 * Implement the adder function to pass all assert 
 ```

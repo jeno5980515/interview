@@ -10,6 +10,7 @@
 * Compare WebSocket, Polling, Long-Polling and Streaming. 
 * Explain REST.
 * Different between GET and POST.
+* Explain OAuth.
 
 ## Front-end 
 * How to (not) hide a mobile browser's address bar?

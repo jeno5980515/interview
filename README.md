@@ -1,5 +1,9 @@
 # interview
 
+## Overrall
+* How do you performance test code?
+* Explain Devops.
+
 ## Computer Organization and Architecture
 * Compare pass by value, reference and address.  
 * Compare Global, Stack and Heap.
@@ -11,18 +15,27 @@
 * Explain REST.
 * Different between GET and POST.
 * Explain OAuth.
+* How to improve SEO?
 
 ## Front-end 
 * How to (not) hide a mobile browser's address bar?
 * How to solve Browser Compatibility issues?
 * How to improve the perfornamce? 
 * Explain event bubbling.  
+* Event Bind and Event Delegate.
+* Explain AMP and RWD.
+* Talk about CORS.
+* CSS Animations vs Javascript Animations
 
 ## HTML
 * Talk about HTML5.
+* HTML5 Semantic
 
 ## CSS 
 * How to center an element? 
+* Talk about px, rem and em.
+* Box Model
+* Talk about position.
 * Explain pseudo elements   
 * Difference between @import and link?
 * Talk about CSS3.
@@ -35,6 +48,7 @@
 * Different between Call, Apply and Bind ?  
 * Different between var and let?
 * Explain Lifetime of JavaScript variables.
+* Talk about Reduce, Map and Foreach.
 * Implement the adder function to pass all assert 
 ```
 var adder = function(n){......}
@@ -66,6 +80,7 @@ if( “” ) alert(true);
 
 ## Data Structure & Algorithm
 * Multiple by 8 without using multiplication or addition.
+* How to find the longest palindromic substring?
 * Given an array and a value, remove all elements of that > value in place* and return the new length. The order of elements can be changed. It doesn't matter what you leave beyond the new length. And the all elements of the array in new length should <= value. *(in place: You can’t create new array to store result, just use original array)
 * Given two binary strings, return their sum (also a binary string). For example, a = "11" b = "1" Return "100". You can assume "0" < a, b, a+b < “11111111111111111111” (2^20-1)
 * Suppose you have an array of 1000 integers. The integers are in random order, but you know each of the integers is between 1 and 5000 (inclusive). In addition, each number appears only once in the array. Assume that you can access each element of the array only once. Describe an algorithm to sort it. If you used auxiliary storage in your algorithm, can you find an algorithm that remains O(n) space complexity?

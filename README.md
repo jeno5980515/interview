@@ -1,7 +1,7 @@
 # interview
 
 ## Overrall
-* How do you performance test code?
+* How do you measure the performance of your code?
 * Explain Devops.
 
 ## Computer Organization and Architecture

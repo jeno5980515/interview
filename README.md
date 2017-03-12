@@ -16,6 +16,8 @@
 * Different between GET and POST.
 * Explain OAuth.
 * How to improve SEO?
+* Different between HTTP and HTTPS?
+* Different between HTTP/1.1 and HTTP/2?
 
 ## Front-end 
 * How to (not) hide a mobile browser's address bar?

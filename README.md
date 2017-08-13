@@ -48,12 +48,13 @@
 * Different between var and let?
 * Talk about ES6.
 * Talk about Reduce, Map and Foreach.
+* Talk about Symbol.
+* Talk about Design Patterns.
 * Explain "use strict".
 * Explain IIFE.
 * Explain "this".
 * Explain Lifetime of JavaScript variables.
 * Explain hoisting.
-* Explain Symbol.
 * Implement forEach.
 * Implement Promise.
 * Implement Debounce.

@@ -41,6 +41,7 @@
 * Explain pseudo elements   
 * Difference between @import and link?
 * Talk about CSS3.
+* Explain margin collapsing.
 
 ## JavaScript     
 * What is the difference between undefined and not defined in JavaScript? 

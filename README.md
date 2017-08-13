@@ -51,6 +51,7 @@
 * Different between var and let?
 * Explain Lifetime of JavaScript variables.
 * Talk about Reduce, Map and Foreach.
+* Explain hoisting.
 * Implement the adder function to pass all assert 
 ```
 var adder = function(n){......}

@@ -44,13 +44,14 @@
 
 ## JavaScript     
 * What is the difference between undefined and not defined in JavaScript? 
-* Explain "use strict".
-* Talk about ES6.
-* Explain "this".
 * Different between Call, Apply and Bind ?  
 * Different between var and let?
-* Explain Lifetime of JavaScript variables.
+* Talk about ES6.
 * Talk about Reduce, Map and Foreach.
+* Explain "use strict".
+* Explain IIFE.
+* Explain "this".
+* Explain Lifetime of JavaScript variables.
 * Explain hoisting.
 * Explain Symbol.
 * Implement forEach.

@@ -52,6 +52,12 @@
 * Explain Lifetime of JavaScript variables.
 * Talk about Reduce, Map and Foreach.
 * Explain hoisting.
+* Explain Symbol.
+* Implement forEach.
+* Implement Promise.
+* Implement Debounce.
+* Implement Curry.
+* Implement Compose and Pipe.
 * Implement the adder function to pass all assert 
 ```
 var adder = function(n){......}

@@ -56,6 +56,7 @@
 * Explain "this".
 * Explain Lifetime of JavaScript variables.
 * Explain hoisting.
+* Implement filter.
 * Implement forEach.
 * Implement Promise.
 * Implement Debounce.

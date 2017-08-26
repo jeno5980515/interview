@@ -57,7 +57,7 @@
 * Explain Lifetime of JavaScript variables.
 * Explain hoisting.
 * Implement filter.
-* Implement forEach.
+* Implement forEach, map and reduce, and break the loop at specific condition.
 * Implement Promise.
 * Implement Debounce.
 * Implement Curry.

@@ -43,6 +43,7 @@
 * Talk about CSS3.
 * Explain margin collapsing.
 * Remove space between two inline-block elements.
+* Use CSS to draw triangle.
 
 ## JavaScript     
 * What is the difference between undefined and not defined in JavaScript? 

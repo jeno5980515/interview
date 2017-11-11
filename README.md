@@ -65,6 +65,7 @@
 * Implement Curry.
 * Implement Compose and Pipe.
 * Implement the adder function to pass all assert 
+* Implement retry. 
 ```
 var adder = function(n){......}
 var add_one = adder(1);

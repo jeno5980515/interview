@@ -101,3 +101,4 @@ if( “” ) alert(true);
 * Given two binary strings, return their sum (also a binary string). For example, a = "11" b = "1" Return "100". You can assume "0" < a, b, a+b < “11111111111111111111” (2^20-1)
 * Suppose you have an array of 1000 integers. The integers are in random order, but you know each of the integers is between 1 and 5000 (inclusive). In addition, each number appears only once in the array. Assume that you can access each element of the array only once. Describe an algorithm to sort it. If you used auxiliary storage in your algorithm, can you find an algorithm that remains O(n) space complexity?
 * Given a string with only character '(' and/or ')', find the number K that the amount of '(' in the left part of K is same as the amount of ')' in the right part.
+* Implement Topological Sort.

@@ -60,6 +60,7 @@
 * Explain hoisting.
 * Implement filter.
 * Implement forEach, map and reduce, and break the loop at specific condition.
+* Implement bind, call, apply.
 * Implement Promise.
 * Implement Debounce.
 * Implement Curry.

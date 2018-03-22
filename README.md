@@ -68,6 +68,7 @@
 * Implement the adder function to pass all assert 
 * Implement retry. 
 * How to use `Promise.all()` to wait all promise finished, even reject?
+* Implement a simple stub function.
 ```
 var adder = function(n){......}
 var add_one = adder(1);
